@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">FacebookLogin</string>
     <string name="facebook_app_id">1002556556449519</string>
+    <string name="title_activity_publish">PublishActivity</string>
 </resources>
